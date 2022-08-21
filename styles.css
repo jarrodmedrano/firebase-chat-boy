@@ -1,0 +1,13 @@
+.chat {
+  background-color: lightyellow;
+  border: 1px solid lightblue;
+  border-radius: 2px;
+  width: 100%;
+}
+
+.chat-sender {
+  height: 25px;
+}
+.chat-viewer {
+  height: 800px;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "firebase-chat-boy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firebase-chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarrod Medrano",
+  "license": "ISC"
+}
